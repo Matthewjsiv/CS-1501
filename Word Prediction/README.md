@@ -1,0 +1,1 @@
+For this project we were asked to implement word prediction based on a given dictionary and a "user-history" file that updates continuously as you use the predictor. It is implemented using a DLB Trie that also contains weights to take into account words you have previously used.
